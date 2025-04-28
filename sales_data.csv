@@ -1,0 +1,11 @@
+SaleID,Date,Salesperson,Client,RevenueUSD,Platform
+1,2024-01-05,Ana Torres,BrandX,5000,Spotify
+2,2024-01-07,Marco Díaz,BrandY,3000,Spotify
+3,2024-01-10,Ana Torres,BrandZ,7000,Netflix
+4,2024-01-15,Luis Paredes,BrandW,2000,PrimeVideo
+5,2024-01-17,Marco Díaz,BrandX,6000,AppleTV
+6,2024-01-20,Ana Torres,BrandY,4000,Netflix
+7,2024-01-25,Luis Paredes,BrandZ,3500,PrimeVideo
+8,2024-01-28,Marco Díaz,BrandW,2500,AppleTV
+9,2024-02-01,Ana Torres,BrandX,8000,Spotify
+10,2024-02-05,Luis Paredes,BrandY,4500,Netflix
